@@ -31,3 +31,7 @@
 - LT1776		Buck for Microcontroller
 
 ## Bill of Materials
+| Part Number   | Part Description              | Quantity | Package            |
+| ------------- | ----------------------------- | --------:| ------------------ |
+| LT4320-1      | Ideal Diode Bridge Controller | 1        | 12-Lead MSOP       |
+| IPD220N06L3   | N-Channel Power Transistor    | 4        | 3-Lead DPAK/TO-252 |
